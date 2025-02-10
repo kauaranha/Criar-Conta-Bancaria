@@ -40,7 +40,7 @@ namespace controleContas
                             cliente1 = new Cliente(nome, anoNascimento, cpf);
                             conta1.Titular = cliente1;
                             conta2.Titular = cliente1;
-                            Console.WriteLine("Cliente cadastrado com sucesso!");
+                            Console.WriteLine("Cliente cadastrado com sucesso!!");
                             break;
 
                         case 2:
