@@ -61,7 +61,7 @@ namespace controleContas
                             }
                             else
                             {
-                                Console.WriteLine("Conta inválida.");
+                                Console.WriteLine("Conta inválida, tente novamente!");
                             }
                             break;
 
@@ -83,7 +83,7 @@ namespace controleContas
                             }
                             else
                             {
-                                Console.WriteLine("Conta inválida.");
+                                Console.WriteLine("Conta inválida, tente novamente!");
                             }
                             break;
 
